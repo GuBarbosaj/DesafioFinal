@@ -6,7 +6,7 @@ Projeto desenvolvido utilizando a linguagem de programaçao Java e o NetBeans ID
 
 Java Runtime Environment instalado na maquina.
 
-# Instalação
+# Execução
 
 Para executar o projeto a partir da linha de comando, vá para a pasta dist e digite o seguinte:
 
